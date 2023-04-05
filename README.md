@@ -1,4 +1,4 @@
-# [![terraform-helm-example](https://github.com/guivin/terraform-helm-example/actions/workflows/main.yml/badge.svg)](https://github.com/guivin/terraform-helm-example/actions/workflows/main.yml)
+
 
 This repository shows how to use Helm with Terraform using the official [Helm provider](https://registry.terraform.io/providers/hashicorp/helm/2.4.1). 
 
